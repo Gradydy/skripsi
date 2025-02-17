@@ -1,0 +1,10 @@
+folium==0.16.0
+geopandas==1.0.1
+matplotlib==3.10.0
+ortools==9.9.3963
+pandas==2.2.3
+plotly==5.24.1
+scikit_learn==1.6.1
+streamlit==1.40.1
+streamlit_extras==0.5.5
+streamlit_folium==0.20.0
