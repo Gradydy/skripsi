@@ -1,6 +1,6 @@
-# Skripsi: Analisis dan Prediksi Penjualan Restoran
+# Skripsi: Analisis dan Prediksi rute dan pengiriman barang darat
 
-**Sebuah proyek untuk memprediksi pendapatan harian restoran menggunakan machine learning.**
+**Sebuah proyek untuk memprediksi rute dan biaya pengiriman menggunakan VRP dan Machine Learning.**
 
 ### **Fitur Utama**
 
